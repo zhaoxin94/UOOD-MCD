@@ -3,3 +3,4 @@ pretrained/*
 data/*
 checkpoints/*
 *.pyc
+.history/
